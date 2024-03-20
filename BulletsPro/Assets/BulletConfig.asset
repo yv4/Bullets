@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae5aefb65761b54fade9d63bd773fc2, type: 3}
+  m_Name: BulletConfig
+  m_EditorClassIdentifier: 
+  LifeCycle: 5
+  LinearVelocity: 1.6
+  Acceleration: 0
+  AngleVelocity: 0
+  AngleAcceleration: 0
+  MaxVelocity: 35
+  InitRotation: 0
+  SenderAngleVelocity: 100
+  SenderMaxAgnleVelocity: 100
+  SenderAngleAcceleration: 0
+  Count: 12
+  LineAngle: 30.01
+  SendInterval: 0.08
+  Prefab: {fileID: 6743894038764353743, guid: e2f562cfa52f10e438f20ffcdce65d69, type: 3}
